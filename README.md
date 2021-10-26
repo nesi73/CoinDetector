@@ -25,5 +25,5 @@ monedas y consiga poner las etiquetas normalizadas para yolo necesarias.
 │       ├───images<br>
 │       └───labels
 
-<h3>coin_detector2.py</h3>
+<h3>coin_detector.py</h3>
 <p>Este script sirve para detectar monedas, valdría con poner de manera paralela la cámara enfrente de las monedas posicionadas delante de un papel blanco, posteriormente al correr el script se remarcarán las monedas con su correspondiente valor, por la terminal se podrá observar el valor total de las monedas</p>
